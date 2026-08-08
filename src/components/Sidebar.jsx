@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { FaLinkedin, FaGithub, FaWhatsapp, FaChevronDown } from "react-icons/fa";
-import avatar from "../assets/images/siddpic.png";
+import avatar from "../../public/preview.png";
 import StatusBadge from "./StatusBadge";
 
 export default function Sidebar({ onNavigate }) {
